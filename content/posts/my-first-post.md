@@ -3,7 +3,7 @@ title: "Know Juan Asked for This"
 date: 2023-04-04T21:47:16-04:00
 ---
 
-{{< paige/image class="rounded-5" src="https://images.unsplash.com/photo-1500576992153-0271099def59?&w=1296" >}}
+{{< paige/image width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1500576992153-0271099def59?&w=1296" >}}
 
 ## Hello There
 

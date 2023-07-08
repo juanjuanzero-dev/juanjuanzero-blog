@@ -9,7 +9,7 @@ tags:
   - business
 ---
 
-{{< paige/image width="70%" bsClass="rounded-5" src="https://images.unsplash.com/photo-1591522811280-a8759970b03f?w=1740" >}}
+{{< paige/image width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1591522811280-a8759970b03f?w=1740" >}}
 
 # Thinking about joining a startup or a business?
 
