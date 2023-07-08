@@ -9,7 +9,7 @@ tags:
   - how-to
 ---
 
-{{< paige/image width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1507090755474-a796c61f4b6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80" >}}
+{{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1507090755474-a796c61f4b6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80" >}}
 
 # Aimlessly Living
 
@@ -27,7 +27,7 @@ It's about guarding your time from the distractions, the unnecessary obligations
 
 You'd first terraform the soil to a good condition, then you'd put a fence up to prevent bugs and critters from damaging the plant. It's about "blocking" things that are unnecessary so that the things that do matter (you) can flourish and grow. You may even notice other plants that grow along side your fruit plant, you may think that is fine but in reality it too is taking away nutrients from the soil, nutrients that would have gone to making more fruit. Time blocking, is your way of saying to the world. "No, this matters. This is important to me. I am important."
 
-# How to Time Block
+## How to Time Block
 
 Time Blocking is very simple, every day you terraform your day and make room for what needs to happen and when. You allocate time for it and during that time, only do what you made time for. Everything else is a distraction, a weed that could take time away from what you see.
 
@@ -37,7 +37,7 @@ You can set up weeding sessions, where all you do is tackle the weeds that sprun
 
 You will eventually encounter that gopher that dug underneath your fence, or your crop contracted a disease. That's okay, you are okay. What this is designed for is to give you a framework for deciding when things will get done. I find myself updating my time block planner a few times a day to adjust to unplanned work and handle distractions I could not avoid.
 
-# What Does it look like in action?
+## What Does it look like in action?
 
 Here is an example:
 

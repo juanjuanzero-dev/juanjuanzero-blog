@@ -8,7 +8,7 @@ tags:
   - how-to
 ---
 
-{{< paige/image width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1585468274952-66591eb14165" >}}
+{{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1585468274952-66591eb14165" >}}
 
 # What I've learned from You are a Badass
 
@@ -32,7 +32,7 @@ The frequency analogy in the book does not really hit it for me. Perhaps because
 
 My interpretation of what the author was saying is: When we put ourselves out there, get involve in the world, live a life of intentionality you will construct a bias for the things that will help you in your journey. Intentionality comes with a purpose and a clear and concrete way of getting to where you need to go. Having a specific _frequency_ and being aware of it is a concrete way of making being _aware of yourself_ and how you are interacting with the world. Therefore, if you have a filter for things that could help you in your journey, you are putting off a demeanor (energy/frequency) and signaling to others that you are heading towards a certain direction. Direction is attractive, as you move in your journey, others will go along with you. Some for their own gain, some for their own interests. That movement in your journey will cause you to coalesce into a community heading towards a general direction. Help each other.
 
-{{< paige/image width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1606823616265-3c84de4cfcff" >}}
+{{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1606823616265-3c84de4cfcff" >}}
 
 ## The truth about learning and lying
 
@@ -56,7 +56,7 @@ You've heard it said `Faking it till you make it`. This can be interpreted incor
 
 It all comes from a point of self awareness. Be honest with yourself as you see your current self and the identity that you want to take on. This will reveal to you the work that you need to do to get there. Don’t have the right information? Go out and find get more information. Do this until all that is left are the habits you need to pick up, or drop, and tasks you need to do. Until all that is left are the hard steps it takes to get to where you want to be.
 
-{{< paige/image width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1468322638156-074863f9362e" >}}
+{{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1468322638156-074863f9362e" >}}
 
 ## Do the work
 
