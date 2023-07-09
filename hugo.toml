@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Juan Juan Zero'
-theme = 'juanTrickPony'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 [menu]
   [[menu.main]]
