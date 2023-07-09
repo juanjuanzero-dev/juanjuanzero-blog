@@ -6,16 +6,16 @@ theme = 'juanTrickPony'
 [menu]
   [[menu.main]]
     name = "Home"
-    pre = "home"
+    pre = "bi-house-door-fill"
     url = "/"
     weight = 1
   [[menu.main]]
     name = "Posts"
-    pre = "pen-tool"
+    pre = "bi-book-fill"
     url = "/posts/"
     weight = 2
   [[menu.main]]
     name = "Tags"
-    pre = "tag"
+    pre = "bi-tags-fill"
     url = "/tags/"
     weight = 3

@@ -3,8 +3,7 @@
         {{ range .Site.Menus.main }}
         <a class="nav-link" href="{{ .URL }}">
         {{ if .Pre }}
-        {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
-        {{ $icon }}
+            <i class="bi {{ .Pre }}"></i>
         {{ end }}
         {{ $text := print .Name | safeHTML }}
         {{ $text }}
