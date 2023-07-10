@@ -15,7 +15,12 @@ theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
     url = "/posts/"
     weight = 2
   [[menu.main]]
+    name = "About"
+    pre = "bi-tags-fill"
+    url = "/about/"
+    weight = 3
+  [[menu.main]]
     name = "Tags"
     pre = "bi-tags-fill"
     url = "/tags/"
-    weight = 3
+    weight = 4

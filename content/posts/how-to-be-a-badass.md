@@ -5,7 +5,7 @@ tags:
   - motivational
   - productivity
   - pragmatic
-  - how-to
+  - how to
 ---
 
 {{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1585468274952-66591eb14165" >}}

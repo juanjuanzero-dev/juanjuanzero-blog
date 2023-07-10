@@ -1,17 +1,17 @@
 ---
-title: "How to Time Block"
+title: "How to Time Block to get things done"
 date: 2023-04-06T21:47:16-04:00
 tags:
   - time block
   - organizational
   - productivity
   - pragmatic
-  - how-to
+  - how to
 ---
 
 {{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1507090755474-a796c61f4b6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80" >}}
 
-# Aimlessly Living
+# How to make sure things get done
 
 There is a routine in life. You started to notice that something is not quite right. There are things that you wanted to do but haven't gotten around to doing, there are goals you've wanted to accomplish but haven't done. Heck, even things you wanted to try but just haven't found the time. That time was taken from you.
 

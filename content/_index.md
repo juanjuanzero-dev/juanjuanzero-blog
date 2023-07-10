@@ -1,8 +1,7 @@
 ---
-title: "Juan Juan Zero"
+title: "JuanJuanZero"
 
-description: "Hello there."
-cascade:
-  featured_image: '/images/nasa-footprint.jpg'
+description: "Hello there. I'm some juan from some where"
+featured_image: '/images/nasa-aurora.jpg'
 ---
-Welcome!
+They say it takes juan to know juan. Can you really even say definitively who you are?

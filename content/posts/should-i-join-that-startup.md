@@ -5,7 +5,7 @@ tags:
   - career
   - productivity
   - pragmatic
-  - how-to
+  - how to
   - business
 ---
 
