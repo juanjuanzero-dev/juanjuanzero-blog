@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Juan Juan Zero'
+title = 'JuanJuanZero'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 [menu]

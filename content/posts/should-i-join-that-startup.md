@@ -1,15 +1,12 @@
 ---
 title: "Should I join that startup?"
 date: 2023-05-06T00:00:00-04:00
+featured_image: "https://images.unsplash.com/photo-1591522811280-a8759970b03f?w=1740"
 tags:
   - career
-  - productivity
-  - pragmatic
   - how to
   - business
 ---
-
-{{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1591522811280-a8759970b03f?w=1740" >}}
 
 # Thinking about joining a startup or a business?
 

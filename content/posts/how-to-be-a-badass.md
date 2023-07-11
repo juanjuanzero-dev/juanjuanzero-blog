@@ -1,14 +1,13 @@
 ---
 title: "How to be a Badass"
 date: Sun May 14 14:10:52 EDT 2023
+description: "If you've always wanted to know what it is like to be a badass. Here is how."
+featured_image: "https://images.unsplash.com/photo-1585468274952-66591eb14165"
 tags:
   - motivational
   - productivity
-  - pragmatic
   - how to
----
-
-{{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1585468274952-66591eb14165" >}}
+--- 
 
 # What I've learned from You are a Badass
 

@@ -1,15 +1,13 @@
 ---
-title: "How to Time Block to get things done"
+title: "How to protect your time"
 date: 2023-04-06T21:47:16-04:00
+description: "If you always loose time in the day, or if you've already lost your time in the day. Here is how you can get it all back."
+featured_image: "https://images.unsplash.com/photo-1507090755474-a796c61f4b6a"
 tags:
-  - time block
   - organizational
   - productivity
-  - pragmatic
   - how to
 ---
-
-{{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1507090755474-a796c61f4b6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80" >}}
 
 # How to make sure things get done
 
