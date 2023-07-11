@@ -29,6 +29,7 @@ Let’s talk now about some ways to induce the perspective that may be useful to
 This probably comes natural to you, but some do struggle with getting out there. Like me, I have found myself into a comfortable environment. It is very difficult to convince my brain to try new things and explore new things. In fact, it does not come naturally. It only comes out of necessity and induced by external motivators. Yes, this is a long answer for the long perspective. With a longer perspective there exists a possibility that you are the you the you’ve always wanted to be. There is time, it is not too late; all you have to do is put it to work. 
 
 ## How to see more time
+> There is an endless ocean of possibility. Let's go sailing.
 
 Think about the next few years ahead of you. Think of all the open possibilities in the information age has set before you today. You can connect with more people than ever before, learn more things than you can ever learn, and experience many things that was not possible. You can become a much more realized you than you’ve wanted to be. All you have to do is plan out the steps to get there, starting from something that is exciting to you, something that draws you and your attention. This would be a big effort that would span long periods, but you can do it. You know you can with all of the experience has taken you to this point. You know it is achievable.
 
@@ -39,8 +40,9 @@ I admit it that it’s much more natural to think about the past and the future 
 Here in your present moment, we find that it is really the only space that we have to make our choices. Here you dictate the direction of your life for good or for bad. The present is all you really have, the past is gone and can’t be undone, the future is undecided and fleeting. The present is where the rubber meets the road. Therefore, savor it for what it gives you. 
 
 ## How to see less time
+> There is an end
 
-There will be a time when you don’t exist anymore. If you want to make this real calculate your age, subtract it from 100 years (that’s being generous) and start a count down timer. Watch as the seconds waste away as you calculate how much time you have left.
+There will be a time when you don’t exist anymore. If you want to make this real calculate your age, subtract it from 100 years (that’s being generous) and start a count down timer. Watch as the seconds waste away as you calculate how much time you have left. Pretty depressing huh? But bringing this to your attention should help you decide whether to talk with someone at gathering or sit in the corner and look at your phone. Your choices will eventually fly away from your hands, you might as well make them work for you while you have them.
 
 ## Make it count
 {{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1577641309712-a3e91c0be31e" >}}
