@@ -19,6 +19,7 @@ You know the answer and you have a choice to make. While it is in your hands. If
 {{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1527847263472-aa5338d178b8" >}}
 
 > "Life is a garden, dig it" - Joe Dirt
+
 There is a part of you that wants to make a change. Here you want to make a diffent choice to make things better. This is about guarding your time from the distractions, the unnecessary obligations and giving room for the complexities of life. 
 
 Imagine a garden where you'd like to grow some fruits. You'd first terraform the soil to a good condition, then you'd put a fence up to prevent bugs and critters from damaging the plant. It's the same with how you spend your time. You need to dig up your habits, and examine where you are spending a lot of your time. 
