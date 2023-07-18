@@ -9,35 +9,34 @@ tags:
   - how to
 ---
 
-# How to make sure things get done
+## How to make sure things get done
+There is a routine in your life. You started to notice that something is not quite right. There are things that you wanted to do but haven't gotten around to doing, there are goals you've wanted to accomplish but haven't done. There are things you wanted to try but just haven't been able to approach it. You tell yourself that "you'll get to it later". Will you really?
 
-There is a routine in life. You started to notice that something is not quite right. There are things that you wanted to do but haven't gotten around to doing, there are goals you've wanted to accomplish but haven't done. Heck, even things you wanted to try but just haven't found the time. That time was taken from you.
+## It is your choice
+You know the answer and you have a choice to make. While it is in your hands. If you don't make a choice one will be made for you. Its the one that makes sure everything stays the way they were. The status quo remains. And here you are stuck and forever will be. Stuck and out of time. 
+   
+## Terraforming for Time
+{{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1527847263472-aa5338d178b8" >}}
 
-Yep, and you gave it away. Taken by the barrage of distractions ("squirrel"), obligations and general complexities of your life. It is mostly the case, speaking to archetypes who work a typical salary job in a knowledge work environment.
+> "Life is a garden, dig it" - Joe Dirt
+There is a part of you that wants to make a change. Here you want to make a diffent choice to make things better. This is about guarding your time from the distractions, the unnecessary obligations and giving room for the complexities of life. 
 
-> We've allowed ourselves to get encumbered by obligations and openned ourselves up for distractions
+Imagine a garden where you'd like to grow some fruits. You'd first terraform the soil to a good condition, then you'd put a fence up to prevent bugs and critters from damaging the plant. It's the same with how you spend your time. You need to dig up your habits, and examine where you are spending a lot of your time. 
 
-You have a choice to make, will you let this constant barrage berate you into a complacency and settling for unsettled desires? It is up to you. Perhaps this season is a bit tough and you don't want that; that's okay, but perhaps there is something knawing at you, in the back of your mind you know it is possible, but don't know how or even why. You can feel it. You need to take your time back. You can't, that time is lost. But the second best time to plant a tree is now. What will you do now?
-
-> "Squirrel!"
-
-It's about guarding your time from the distractions, the unnecessary obligations and giving room for the complexities of life. Imagine a garden where you'd like to grow some fruits.
-
-You'd first terraform the soil to a good condition, then you'd put a fence up to prevent bugs and critters from damaging the plant. It's about "blocking" things that are unnecessary so that the things that do matter (you) can flourish and grow. You may even notice other plants that grow along side your fruit plant, you may think that is fine but in reality it too is taking away nutrients from the soil, nutrients that would have gone to making more fruit. Time blocking, is your way of saying to the world. "No, this matters. This is important to me. I am important."
+## Blocking By Block
+This is about blocking away things that are unnecessary. Then protecting the really important work that matter to you. That important work, is the work that you know will help you flourish and grow into the person that you want to be. 
 
 ## How to Time Block
 
-Time Blocking is very simple, every day you terraform your day and make room for what needs to happen and when. You allocate time for it and during that time, only do what you made time for. Everything else is a distraction, a weed that could take time away from what you see.
-
-You can set up weeding sessions, where all you do is tackle the weeds that sprung up during the day. This could be meetings that overrun, urgent things for the day.
+Time Blocking is very simple, every day you terraform your day and make room for what needs to happen and when. You allocate time for it and during that time, only do what you made time for. Everything else is a `distraction`, a weed that could take time away from what you see. You can set up weeding sessions, where all you do is tackle the weeds that sprung up during the day. This could be meetings that overrun, urgent things for the day.
 
 ## This will not be perfect
 
 You will eventually encounter that gopher that dug underneath your fence, or your crop contracted a disease. That's okay, you are okay. What this is designed for is to give you a framework for deciding when things will get done. I find myself updating my time block planner a few times a day to adjust to unplanned work and handle distractions I could not avoid.
 
-## What Does it look like in action?
-
-Here is an example:
+## Go Be fruitful
+{{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1528582654826-585a71fcf7f4" >}}
+What Does it look like in action? Here is an example:
 
 - 0600 to 0800: wake up, dress for the day, drink coffee, read Daily Stoic
 - 0800 to 1045: address to dos, reviews
