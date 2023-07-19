@@ -1,4 +1,4 @@
-baseURL = 'https://www.juanjuanzero.com/'
+baseURL = 'https://juanjuanzero-dev.github.io/juanjuanzero-blog/'
 languageCode = 'en-us'
 title = 'JuanJuanZero'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
