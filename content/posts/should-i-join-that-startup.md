@@ -10,7 +10,7 @@ tags:
 
 # Thinking about joining a startup or a business?
 
-If you've been thinking about starting a business or carefully considering to join a new startup, this should be helpful to give you some insight if the company is built on solid foundations or not just haphazardly going through the motions of what looks like an exciting venture. I've just re-read [Peter Theil’s Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296). One of the insights in the book outlines the 5 qualities that every successful business have. They are: a vision, a secret, persistence, a strong culture and a kick ass sales strategy. I've outlined them below with some questions to ask as your evaluate your the startup you are considering.
+If you've been thinking about starting a business or carefully considering to join a new startup, this should be helpful to give you some insight if the company is built on solid foundations or not just haphazardly going through the motions of what looks like an exciting venture. I've just re-read [Peter Theil’s Zero to One (affiliate link)](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=1690196733&amp;sr=1-1&_encoding=UTF8&tag=juanjuanzerod-20&linkCode=ur2&linkId=e659d5d71ce4f452cd280ec1805b9dfd&camp=1789&creative=9325). One of the insights in the book outlines the 5 qualities that every successful business have. They are: a vision, a secret, persistence, a strong culture and a kick ass sales strategy. I've outlined them below with some questions to ask as your evaluate your the startup you are considering.
 
 ## vision
 
@@ -67,3 +67,6 @@ A major component of providing value, persisting and executing a vision is to co
 
 - What are some pain points that a customer segment have and how does your solution solve it?
 - How often do you communicate with your customers and how?
+
+## Good luck in your interview
+In your interview, I hope this has help you generate some questions that you can ask the company. Using this framework from [Zero to One (affiliate link)](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=1690196733&amp;sr=1-1&_encoding=UTF8&tag=juanjuanzerod-20&linkCode=ur2&linkId=e659d5d71ce4f452cd280ec1805b9dfd&camp=1789&creative=9325) should help understand how the startup aims to deliver value to their customers, and essentially gain a foothold in the market that they are attempting to crack. Best of luck and I hope you find a place you can flourish in.

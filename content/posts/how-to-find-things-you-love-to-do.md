@@ -13,7 +13,7 @@ tags:
 
 # How to find things you love to do
 
-When you are pursuing a big goal, you will encounter days that do not feel great. Life interferes, things break, and bad things happen that derail our progress and knock the wind out of our sails. So, how do you keep rowing? Here is a takeaway from "The Art of Impossible" by Steven Kotler.
+When you are pursuing a big goal, you will encounter days that do not feel great. Life interferes, things break, and bad things happen that derail our progress and knock the wind out of our sails. So, how do you keep rowing? Here is a takeaway from [The Art of Impossible by Steven Kotler (affiliate link)](https://www.amazon.com/Art-Impossible-Peak-Performance-Primer/dp/B087D7QC2Q/ref=tmm_aud_swatch_0?_encoding=UTF8&amp;qid=1690196460&amp;sr=1-1&_encoding=UTF8&tag=juanjuanzerod-20&linkCode=ur2&linkId=c1dd9ff326a1285894ae9372cb94a5b8&camp=1789&creative=9325).
 
 ## Finding Foundations
 {{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1615297925037-118f823cf4fc" >}}
@@ -58,4 +58,4 @@ Mastery is the desire to get better at the things you do. Here you have achieved
 > "Anywhere in time and place, where do you want to go?" - Dr. Who
 > 
 
-In order to know where you want to go, you first need to know where you are. Here we have explored ways to identify the actions that really matter to us. We went from things that we were curious about, finding things that you are passionate about, to identifying your purpose. Perhaps you have been feeling a small frustration in the back of your mind that is telling you that what you are doing is something that is meaningless, something that does not matter, or something that is haphazard. I hope this has helped you discern where you want to go, and in the end, love what you do.
+In order to know where you want to go, you first need to know where you are. Here we have explored ways to identify the actions that really matter to us from [The Art of Impossible (affiliate link)](https://www.amazon.com/Art-Impossible-Peak-Performance-Primer/dp/B087D7QC2Q/ref=tmm_aud_swatch_0?_encoding=UTF8&amp;qid=1690196460&amp;sr=1-1&_encoding=UTF8&tag=juanjuanzerod-20&linkCode=ur2&linkId=c1dd9ff326a1285894ae9372cb94a5b8&camp=1789&creative=9325). We went from things that we were curious about, finding things that you are passionate about, to identifying your purpose. Perhaps you have been feeling a small frustration in the back of your mind that is telling you that what you are doing is something that is meaningless, something that does not matter, or something that is haphazard. I hope this has helped you discern where you want to go, and in the end, love what you do.

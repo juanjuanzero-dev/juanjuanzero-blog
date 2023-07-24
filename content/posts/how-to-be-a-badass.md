@@ -11,29 +11,35 @@ tags:
 
 # What I've learned from You are a Badass
 
-I've just read a summary of on Jen Sincero’s You are a Badass. In part because I feel like there is something preventing me from starting on things that I want to do, namely, being a badass. Here is what I've learned.
+I've felt like there are moments where I want to start on something that I want to do, but something stops me from taking the first step. In my search for what that is, I've found Jen Sincero’s [You are a Badass (affiliate link)](https://www.amazon.com/You-Are-Badass-Doubting-Greatness/dp/1529343763/ref=sr_1_5?crid=3SUULG7R00ES&amp;keywords=you+are+a+badass+by+jen+sincero+book&amp;qid=1690194887&amp;s=books&amp;sprefix=you+are+a+badass%255C%252Cstripbooks%252C91&amp;sr=1-5&_encoding=UTF8&tag=juanjuanzerod-20&linkCode=ur2&linkId=6c8ddb2b44774cef659d35f6292cec8e&camp=1789&creative=9325). Here is what I've learned.
 
+
+## You aren't good enough
 > Negative thoughts about yourself are holding you back from being the person you want to be.
-
-## You suck and you don't know why
 
 Yep, you heard me say it. I know that probably triggered something in you. Of course, I don't believe that. We all have negative thoughts that occur in our subconscious mind that prevent us from doing what we really want in life. Part of it, I believe, is that we aren't really aware of what we really want. Therefore, when something in life happens that forces us to make a decision, we end up choosing what feels _right_ in the moment. Sometimes we get lucky, sometimes we don’t. This kind of decision making leaves us with an odd feeling. We get the sense that life is haphazard and leaving us unfulfilled wanting more. There is a lack of intentionality but we really don't notice it.
 
-## You don't suck and you know why
+## You are good enough
 
 > Love yourself, don’t buy what others think of you
 
-Be kind to yourself. Understand that life is a long journey that you wont get there easily. There will be hardships that folks around you will fail to understand. Even when they do, the way they communicate is leaves you confused.
+Be kind to yourself. Understand that life is a long journey that you wont get there easily. There will be hardships that you will experience and folks around you will fail to understand. They may even, in trying to help (in their own way), discourage you from doing something. Take care of yourself.
 
-> There is a limitless power, you just have to tap into it. Woo Woo.
+## Can you ride my wave?
+> There is a limitless power, you just have to tap into it.
 
-The frequency analogy in the book does not really hit it for me. Perhaps because I come from a technical background, and resonant frequencies do have a particular meaning in my scope of understanding. Frequencies are no joke. If amplified to a threshold it can make a [bridge collapse](<https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_(1940)>).
+{{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1609669371960-f5f046c8e9e2" >}}
 
-My interpretation of what the author was saying is: When we put ourselves out there, get involve in the world, live a life of intentionality you will construct a bias for the things that will help you in your journey. Intentionality comes with a purpose and a clear and concrete way of getting to where you need to go. Having a specific _frequency_ and being aware of it is a concrete way of making being _aware of yourself_ and how you are interacting with the world. Therefore, if you have a filter for things that could help you in your journey, you are putting off a demeanor (energy/frequency) and signaling to others that you are heading towards a certain direction. Direction is attractive, as you move in your journey, others will go along with you. Some for their own gain, some for their own interests. That movement in your journey will cause you to coalesce into a community heading towards a general direction. Help each other.
 
-{{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1606823616265-3c84de4cfcff" >}}
+The frequency analogy in the book does not really hit it for me. Perhaps because I come from a technical background, and resonant frequencies do have a particular meaning in my scope of understanding. Frequencies are no joke. If amplified to a threshold it can make a [bridge collapse](<https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_(1940)>). When represented in a 2d plane frequencies can be seen as waves on a chart. They can describe energy.
+
+My interpretation of what the author was saying is this: When we put ourselves out there, get involve in the world, live a life of intentionality you will construct a bias for the things that will help you in your journey. Intentionality comes with a purpose and a clear and concrete way of getting to where you need to go. Having a specific _frequency_ and being aware of it is a concrete way of making being _aware of yourself_ and how you are interacting with the world. Therefore, if you have a filter for things that could help you in your journey, you are putting off a energy (a frequency) and signaling to others that you are heading towards a certain direction. 
+
+Direction is attractive, as you move in your journey, others will go along with you. Some for their own gain, some for their own interests. That movement in your journey will cause you to coalesce into a community heading towards a general direction. You can then help each other in your journey. The limitless power is the power of community. So be a rising tide and make waves, you'll find others doing the same, and go as far as you can with each other
+
 
 ## The truth about learning and lying
+{{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1606823616265-3c84de4cfcff" >}}
 
 > Embrace being a novice
 
@@ -73,6 +79,6 @@ There will be things in your life that will be neutral ot your goals, and things
 
 For example: You may be a parent and also have a dream about starting a business. You may eliminate social media since it is a distraction. One of your other obligations is to care your child. You obviously won't eliminate this obligation, but it does require your time and attention. Sometimes you may feel that the business needs and your child's needs are at odds, or one may pull you off the other. Reducing impact here is hiring a babysitter to get things done for the business. On the other hand, you can also set expectations with your customers/clients that you won't be available at certain times of day.
 
-## Go be a badass
+## Go Be A Badass
 
-These were my takeaways from reading Jen Sincero's [You are a Badass](https://www.amazon.com/You-Are-Badass%C2%AE-Doubting-Greatness/dp/0762447699). In short, it all comes from a point of self awareness, where you see yourself, and where you want to go. The journey is difficult. Any change is. However, it is certainly achievable. Once you know what you want, Go get it.
+These were my takeaways from reading Jen Sincero's [You are a Badass (affiliate link)](https://www.amazon.com/You-Are-Badass-Doubting-Greatness/dp/1529343763/ref=sr_1_5?crid=3SUULG7R00ES&amp;keywords=you+are+a+badass+by+jen+sincero+book&amp;qid=1690194887&amp;s=books&amp;sprefix=you+are+a+badass%255C%252Cstripbooks%252C91&amp;sr=1-5&_encoding=UTF8&tag=juanjuanzerod-20&linkCode=ur2&linkId=6c8ddb2b44774cef659d35f6292cec8e&camp=1789&creative=9325). In short, it all comes from a point of self awareness, where you see yourself, and where you want to go. The journey is difficult. Any change is. However, it is certainly achievable. Once you know what you want, Go get it.
