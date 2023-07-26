@@ -1,16 +1,16 @@
 ---
-title: "Running Towards Mastery"
+title: "Running Towards Mastery and a Deep Life"
 date: 2023-07-26T06:35:29-04:00
 draft: false
 featured_image: https://images.unsplash.com/photo-1504805572947-34fad45aed93
 description: If you've wondered how masters of their craft create and produce good a valuable work, here is how.
 tags: 
     - mastery
+    - purpose
+    - life
     - how to
     - productivity
 ---
-
-# Running Towards Mastery
 
 Mastery is the journey that you take on in your pursuit of your purpose. This is work the resonates with you at a deep level. Only masters can think in larger and large planes of context, while apprentices and novices are striving to understand the main context. How do you get to Mastery? How do you produce works on the plane of Masters of their craft? Based on what I’ve learned from Cal Newport’s ideas on intentional living, what what I’ve read from the [The Art of Impossible by Steven Kotler](https://www.amazon.com/Art-Impossible-Peak-Performance-Primer/dp/B087D7QC2Q/ref=tmm_aud_swatch_0?_encoding=UTF8&amp;qid=1690196460&amp;sr=1-1&_encoding=UTF8&tag=juanjuanzerod-20&linkCode=ur2&linkId=c1dd9ff326a1285894ae9372cb94a5b8&camp=1789&creative=9325) (affiliate link) here’s how I understand how to get there. Let’s go for a run.
 
@@ -82,7 +82,9 @@ In each of these you already exhibit some form of activity. Some areas in each o
 ## Iterate, Iterate, Iterate
 {{< figure width="100%" maxwidth="40rem" class="rounded-5" src="https://images.unsplash.com/photo-1577640256262-8488aa247e17" >}}
 
+> Do good work
+> 
 
 Life is never fair; but it is probabilistic. Circumstances out of your control may come your way and destroy the routines and rituals that you’ve established. That is okay. You can pick things back up and run up again to do the impossible. This process is iterative, meaning, you return to the earlier stages and improve your approaches based on what you’ve learned. 
 
-Do good work. I look forward to seeing what comes of it. Let me know!
+Do good work. I look forward to seeing what comes of it. [Let me know](https://forms.gle/Sj3YXan3WXQPvZ139)!
